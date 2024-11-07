@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saniye Bilgiç</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1bilgisiz&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" />
-</p>
 
 - 🔭 I’m currently working on **Flutter mobile app projects**
 - 🌱 I’m currently learning **Flutter**
