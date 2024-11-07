@@ -1,27 +1,32 @@
 <h1 align="center">Hi 👋, I'm Saniye Bilgiç</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1bilgisiz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=1bilgisiz&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=1bilgisiz&theme=darkhub&row=1&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=1bilgisiz&theme=flat&no-bg=true&row=1&column=6" alt="Trophies" />
   </a>
 </p>
 
 - 🔭 I’m currently working on **Flutter mobile app projects**
 - 🌱 I’m currently learning **Flutter**
-- 📫 How to reach me **bilgicsaniye66@gmail.com**
+- 📫 How to reach me: **bilgicsaniye66@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/saniye-bilgiç-b387411a1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+---
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   </a>
@@ -48,9 +53,13 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1bilgisiz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+---
+
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1bilgisiz&show_icons=true&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1bilgisiz&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1bilgisiz&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
